@@ -54,7 +54,7 @@ docker run --rm \
 
 ### Minimal
 
-The minimal image skips all the extra gems, all the extra dev dependencies and leaves a very small image to download.  This is intended for people who do not need anything extra but Jekyll.
+The minimal image skips all the extra gems, all the extra dev dependencies and leaves a very small image to download.  This is intended for folks who do not need anything extra but Jekyll.
 
 #### Usage
 
